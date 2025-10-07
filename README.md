@@ -1,44 +1,15 @@
-## Hey 👋, I'm Dion James Smith!  
-  
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey 👋, I'm Dion James Smith</h1><a id="user-content-hi--im-ashish-tom" class="anchor" aria-label="Permalink: Hey 👋, I'm Dion James Smith" href="#hi--im-ashish-tom"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<a href="https://github.com/https://github.com/DJamesSmith" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://x.com/DionJEsq" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/https://codepen.io/dion-james-smith" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20152159/dion-esq" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dion-james-smith-4613199a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/DionEsq" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/dion_james_smith/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://medium.com/@developer.dion" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">iOS&emsp;&#8226;&emsp;Flutter&emsp;&#8226;&emsp;React Native&emsp;&#8226;&emsp;MERN Stack</h3><a id="user-content-a-passionate-frontend-developer-from-india" class="anchor" aria-label="Permalink: A passionate frontend developer from India" href="#a-passionate-frontend-developer-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 ### Glad to see you here!  
-I’m a mobile developer who has turned my passion for building apps into a professional career. Being skilled in both iOS (Swift, SwiftUI, UIKit) and Flutter allows me to create intuitive, high-performance applications with modern user experiences.
+I’m a mobile app developer who has passion for building apps into a professional career. Being skilled in both iOS (Swift, SwiftUI, UIKit) and Flutter allows me to create intuitive, high-performance applications with modern user experiences.
 
 I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me to build and integrate APIs that power dynamic frontend applications. I enjoy connecting all the moving parts, from the backend logic to the final UI, to deliver seamless, reliable products that people love using.  
-  
 
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working in Flutter App Dev and SwiftUI  
@@ -53,17 +24,9 @@ I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me t
 - ⚡ Fun fact: Discipline is easy  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -115,18 +78,36 @@ I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me t
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=DJamesSmith&&style=flat-square)  
-  
-
 <br/>  
 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+## Connect with me
+<p align="center">
+<a href="https://github.com/https://github.com/DJamesSmith" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://x.com/DionJEsq" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/https://codepen.io/dion-james-smith" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dion-james-smith-4613199a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/dion_james_smith/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/DionEsq" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@developer.dion" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+</p>
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=DJamesSmith&&style=flat-square)  
