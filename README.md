@@ -56,7 +56,7 @@ I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me t
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b2e10e7f-21e1-41b0-a073-785a14121440" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
 
 
