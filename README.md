@@ -122,12 +122,9 @@ I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me t
 </p>
 
 <br/>  
-<br/>  
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DJamesSmith&&style=flat-square)  
 
-<br/>  
-<br/>  
+<br/>
 
 <img width="100%" src="https://camo.githubusercontent.com/be4f89116726974b98e9beef51954c013f590e48a3badbde49f8ab29b7011140/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d666f6f746572" alt="footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=D9BED1&amp;height=120&amp;section=footer" style="max-width: 100%;">
