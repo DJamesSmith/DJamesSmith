@@ -83,16 +83,10 @@ I also have backend knowledge in Node.js, Express.js, and MongoDB, enabling me t
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DJamesSmith&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
+![](https://nirzak-streak-stats.vercel.app/?user=DJamesSmith&theme=shadow_blue&hide_border=false)<br/>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 98%" />
-
-</td></tr></table>  
 
 <br/>  
 
