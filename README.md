@@ -14,8 +14,8 @@ I enjoy developing end-to-end solutions. From designing scalable APIs to craftin
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working with Python and Django with AI
-- 🌱 I’m currently learning AI and ML
-- ❓ Ask me about anything related to iOS, Flutter, React Native or MERN stack and related technologies
+- 🌱 I’m currently learning AI and ML with Python
+- ❓ Ask me about anything related to Python, Flutter, iOS, React Native or MERN stack and related technologies
 - ⚡ Fun fact: Discipline is easy
 
 </td></tr></table>  
