@@ -97,11 +97,26 @@ I enjoy developing end-to-end solutions. From designing scalable APIs to craftin
   <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/zenburn/3-stats.svg" />
 </p> -->
 
-
+<!--
 [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DJamesSmith&theme=monokai-metallian" />
+</p> -->
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/0-profile-details.svg"  width="100%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/4-productive-time.svg" width="49%" />
+  <br/><br/>
+  <img 
+    src="https://streak-stats.demolab.com?user=DJamesSmith&theme=monokai-metallian&hide_border=true" 
+    width="70%" 
+  />
+</div>
 
 <br/>  
 
