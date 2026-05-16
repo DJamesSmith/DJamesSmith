@@ -106,15 +106,15 @@ I enjoy developing end-to-end solutions. From designing scalable APIs to craftin
 </p> -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/0-profile-details.svg"  width="100%" />
-  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/2-most-commit-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/3-stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/4-productive-time.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/0-profile-details.svg"  width="80%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/2-most-commit-language.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/3-stats.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/4-productive-time.svg" width="40%" />
   <br/><br/>
   <img 
     src="https://streak-stats.demolab.com?user=DJamesSmith&theme=monokai-metallian&hide_border=true" 
-    width="70%" 
+    width="60%" 
   />
 </div>
 
