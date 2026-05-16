@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header)
 
-<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey 👋, I'm Dion James Smith</h1><a id="user-content-hi--im-ashish-tom" class="anchor" aria-label="Permalink: Hey 👋, I'm Dion James Smith" href="#hi--im-ashish-tom"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" style="max-width: 100%; height: auto; max-height: 30px; aspect-ratio: 30 / 30; background-color: var(--bgColor-muted); border-radius: 6px; display: inline-block;" class="js-gh-image-fallback" data-target="animated-image.originalImage"></a> <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden=""> <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" target="_blank">, I'm Dion James Smith</h1><a id="user-content-hi--im-ashish-tom" class="anchor" aria-label="Permalink: Hey 👋, I'm Dion James Smith" href="#hi--im-ashish-tom"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Python&emsp;&#8226;&emsp;iOS&emsp;&#8226;&emsp;Flutter&emsp;&#8226;&emsp;React Native&emsp;&#8226;&emsp;MERN Stack</h3><a id="user-content-a-passionate-frontend-developer-from-india" class="anchor" aria-label="Permalink: A passionate frontend developer from India" href="#a-passionate-frontend-developer-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
@@ -82,8 +82,23 @@ I enjoy developing end-to-end solutions. From designing scalable APIs to craftin
 
 
 ## Github Stats
+<!-- <p>Github website to see the design options</p> -->
+<!-- <p> https://github.com/DJamesSmith/DJamesSmith/tree/main/profile-summary-card-output/rose_pine </p> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=DJamesSmith&theme=shadow_blue&hide_border=false)<br/>
+<!-- <p>chatgpt website to learn how to do it</p> -->
+<!-- <p>https://chatgpt.com/c/6a083dbe-f2bc-83e8-a647-db360aa781c4</p> -->
+
+<!-- <p>Example: </p> -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/zenburn/2-most-commit-language.svg" />
+
+  <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/zenburn/3-stats.svg" />
+</p> -->
+
+
+[![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/rose_pine/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <br/>  
