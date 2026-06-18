@@ -87,7 +87,7 @@ Building comprehensive, end-to-end solutions streamlines operations and drives m
 <!-- <p>Github website to see the design options</p> -->
 <!-- <p> https://github.com/DJamesSmith/DJamesSmith/tree/main/profile-summary-card-output/rose_pine </p> -->
 
-<!-- <p>chatgpt website to learn how to do it</p> -->
+<!-- <p>search website to learn how to bring it about</p> -->
 <!-- <p>https://chatgpt.com/c/6a083dbe-f2bc-83e8-a647-db360aa781c4</p> -->
 
 <!-- <p>Example: </p> -->
