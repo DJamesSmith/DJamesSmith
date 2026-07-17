@@ -112,11 +112,9 @@ Building comprehensive, end-to-end solutions streamlines operations and drives m
   <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/3-stats.svg" width="40%" />
   <img src="https://raw.githubusercontent.com/DJamesSmith/DJamesSmith/main/profile-summary-card-output/monokai/4-productive-time.svg" width="40%" />
   <br/><br/>
-  <img 
-    src="https://streak-stats.demolab.com?user=DJamesSmith&theme=monokai-metallian&hide_border=true" 
-    width="60%" 
-  />
+  <img src="https://streak-stats.demolab.com?user=DJamesSmith&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=520" width="60%" />
 </div>
+<!-- https://streak-stats.demolab.com/demo/ -->
 
 <br/>  
 
