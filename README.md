@@ -1,30 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header)
 
 <h1 align="center">
-  Hey <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" width="30px">, I'm <a href="https://dionjamessmith.com/" target="_blank">Dion James Smith</a>
+  𝙷𝚎𝚢 <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" width="30px">, 𝙸'𝚖 &nbsp;&nbsp;<a href="https://dionjamessmith.com/" target="_blank">𝙳𝚒𝚘𝚗 𝙹𝚊𝚖𝚎𝚜 𝚂𝚖𝚒𝚝𝚑</a>
 </h1>
 
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Python&emsp;&#8226;&emsp;iOS&emsp;&#8226;&emsp;Flutter&emsp;&#8226;&emsp;React Native&emsp;&#8226;&emsp;MERN Stack</h3><a id="user-content-a-passionate-frontend-developer-from-india" class="anchor" aria-label="Permalink: A passionate frontend developer from India" href="#a-passionate-frontend-developer-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">𝙿𝚢𝚝𝚑𝚘𝚗&emsp;&#8226;&emsp;𝙳𝚓𝚊𝚗𝚐𝚘&emsp;&#8226;&emsp;𝚒𝙾𝚂&emsp;&#8226;&emsp;𝙵𝚕𝚞𝚝𝚝𝚎𝚛&emsp;&#8226;&emsp;𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔</h3><a id="user-content-a-passionate-frontend-developer-from-india" class="anchor" aria-label="Permalink: A passionate frontend developer from India" href="#a-passionate-frontend-developer-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-### Glad to see you here!  
-Software Engineer with strong passion for technology and build robust, impactful software. Works primarily with Python, Django, and AI, and experienced in frontend development using iOS (SwiftUI, UIKit) and Flutter.
+### 𝙶𝚕𝚊𝚍 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎!
 
-Building comprehensive, end-to-end solutions streamlines operations and drives maximum impact. From designing scalable APIs to crafting seamless mobile experiences. Interested in expanding into IoT, combining hardware with AI to build intelligent, real-world applications.
+𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙳𝚓𝚊𝚗𝚐𝚘, 𝚊𝚗𝚍 𝙰𝙸. 𝙴𝚗𝚓𝚘𝚢𝚜 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝙰𝙿𝙸𝚜, 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚗𝚐 𝙰𝙸 𝚒𝚗𝚝𝚘 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚛𝚘𝚋𝚞𝚜𝚝 𝚋𝚊𝚌𝚔𝚎𝚗𝚍𝚜 𝚠𝚒𝚝𝚑 𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙𝚜 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝚒𝙾𝚂 (𝚂𝚠𝚒𝚏𝚝𝚄𝙸, 𝚄𝙸𝙺𝚒𝚝) 𝚊𝚗𝚍 𝙵𝚕𝚞𝚝𝚝𝚎𝚛.
 
+𝙱𝚎𝚕𝚒𝚎𝚟𝚎𝚜 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚎𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚜𝚘𝚕𝚟𝚎 𝚛𝚎𝚊𝚕 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜. 𝙰𝚕𝚜𝚘 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙸𝚘𝚃, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚑𝚘𝚠 𝙰𝙸 𝚊𝚗𝚍 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎 𝚌𝚊𝚗 𝚌𝚘𝚖𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝, 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.
 <br/>
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Currently working with Python and Django with AI
-- 🌱 Currently learning AI and ML with Python
-- ❓ Ask anything relevant to Python, Flutter, iOS, React Native or MERN stack and related technologies
-- ⚡ Fun fact: Discipline is easy
+- 🔭 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙳𝚓𝚊𝚗𝚐𝚘, 𝚊𝚗𝚍 𝙰𝙸
+- 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝙻, 𝚊𝚗𝚍 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗
+- ❓ 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙳𝚓𝚊𝚗𝚐𝚘, 𝙰𝙸, 𝙵𝚕𝚞𝚝𝚝𝚎𝚛, 𝚒𝙾𝚂, 𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎, 𝚘𝚛 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔
+- ⚡ Fun fact: 𝙳𝚒𝚜𝚌𝚒𝚙𝚕𝚒𝚗𝚎 𝚒𝚜 𝚎𝚊𝚜𝚢.
 
 </td></tr></table>  
 
 <br/>  
 
-## Languages and Tools  
+## 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -83,7 +84,7 @@ Building comprehensive, end-to-end solutions streamlines operations and drives m
 <br/>  
 
 
-## Github Stats
+## 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 <!-- <p>Github website to see the design options</p> -->
 <!-- <p> https://github.com/DJamesSmith/DJamesSmith/tree/main/profile-summary-card-output/rose_pine </p> -->
 
@@ -118,7 +119,7 @@ Building comprehensive, end-to-end solutions streamlines operations and drives m
 
 <br/>  
 
-## Connect with me
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
 <p align="center">
     <a href="https://github.com/DJamesSmith" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
