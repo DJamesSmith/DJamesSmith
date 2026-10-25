@@ -78,10 +78,10 @@ class DionJamesSmith(SoftwareEngineer):
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧾 **[Recruitment Intelligence Portal](#)** | AI-assisted candidate screening and interview intelligence platform | `Django 5` `Python` `ML` |
-| 🖼️ **[CNN EfficientNet Classifier](#)** | Image classification pipeline built on transfer learning with EfficientNet | `Python` `CNN` `Deep Learning` |
-| 🎓 **[Edu-Predict](#)** | Predictive model for education data with an API front | `Python` `ML` |
-| 📚 **[NLTK Showcase](#)** | A guided tour of NLP fundamentals in Python | `Python` `NLTK` |
+| 🧾 **[Recruitment Intelligence Portal](https://github.com/DJamesSmith/recruitment-intelligence-portal-ml)** | AI-assisted candidate screening and interview intelligence platform | `Django 5` `Python` `ML` |
+| 🖼️ **[CNN EfficientNet Classifier](https://github.com/DJamesSmith/efficientnet-image-classifier)** | Image classification pipeline built on transfer learning with EfficientNet | `Python` `CNN` `Deep Learning` |
+| 🎓 **[Edu-Predict](https://github.com/SDLC-EduPredict/django-api-server)** | Predictive model for education data with an API front | `Python` `ML` |
+| 📚 **[NLTK Showcase](https://github.com/DJamesSmith/nltk-python)** | A guided tour of NLP fundamentals in Python | `Python` `NLTK` |
 
 ---
 
