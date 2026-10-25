@@ -135,7 +135,7 @@ I break down Python, Django, FastAPI and ML concepts into short, practical lesso
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DJamesSmith&style=flat-square&color=64FFDA&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DJamesSmith&style=flat-square&color=8B5CF6&label=visitors" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
