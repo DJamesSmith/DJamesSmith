@@ -12,15 +12,12 @@
   <a href="https://dionjamessmith.com/"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=64FFDA" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/dion-james-smith-4613199a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@developer.dion"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://x.com/DionJEsq"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/channel/UC-MuYv1XcbMYeolwDwQLtBA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/developerdion/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://codepen.io/dion-james-smith"><img src="https://img.shields.io/badge/CodePen-1E1E1E?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
 
 ---
 
-### `>>> import dion`
 
 ```python
 class DionJamesSmith(SoftwareEngineer):
